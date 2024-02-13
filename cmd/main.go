@@ -1,9 +1,9 @@
 package main
 
 import (
-	"log"
 	"github.com/n0fr0st/todo-app"
 	"github.com/n0fr0st/todo-app/pkg/handler"
+	"log"
 )
 
 func main() {
